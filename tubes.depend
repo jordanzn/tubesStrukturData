@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1672871935 source:d:\coding\c++\tubes_jordan\mken\tubes\main.cpp
+	"MkeN.h"
+
+1672834841 d:\coding\c++\tubes_jordan\mken\tubes\mken.h
+	<iostream>
+
+1672871469 source:d:\coding\c++\tubes_jordan\mken\tubes\gudang.cpp
+	"MkeN.h"
+
+1672871469 source:c:\users\jordan\downloads\tubes\gudang.cpp
+	"MkeN.h"
+
+1672919701 c:\users\jordan\downloads\tubes\mken.h
+	<iostream>
+
+1672978271 source:c:\users\jordan\downloads\tubes\main.cpp
+	"MkeN.h"
+
